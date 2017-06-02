@@ -14,8 +14,6 @@ echo'<pre>';
 
     echo '</pre>';
 
-    echo 'bonjour<br>';
-
 /*
 Exercice 1:
 Vérifier que:
